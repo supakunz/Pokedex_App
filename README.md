@@ -17,10 +17,11 @@ Pokédex is a web application that can be used to find information and learn abo
       <li>Responsive with all devices</li>
   </ul>
 
-## 🐣 Technologyies Used
+## 🐣 Tech Stack
   
   <ul>
       <li>ReactJS</li>
+      <li>TypeScript</li>
       <li>Tailwind CSS</li>
       <li>React Router</li>
       <li>Zustand</li>

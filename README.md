@@ -1,9 +1,13 @@
 # Pokedex App
 Pokédex is a web application that can be used to find information and learn about Pokémon. It tells about the stats and abilities of the Pokémon's various species. This application uses data from [PokeAPI](https://pokeapi.co/), which is a complete and reliable Pokémon API. To provide a good experience for Pokemon lovers and general users.
 
-## ⚡ Live Demo 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/94368923-0cfc-435d-aa0f-ea56d10df851" />
 
-https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46-9684acd87cea
+##  ⚡  Live Demo 
+
+🎥 Watch demo video :  
+
+[Demo Video](https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46-9684acd87cea)
 
 ## 🦄 Features
 
